@@ -1,0 +1,74 @@
+[
+ {
+  "nama": "banjir likuidasi SHORT 6j",
+  "n": 635,
+  "rate": 0.7496062992125985,
+  "ket": "short dilikuidasi besar (dominasi ≥2.5×, ≥p90 koin) → harga naik 6 jam berikut"
+ },
+ {
+  "nama": "banjir likuidasi LONG 6j",
+  "n": 564,
+  "rate": 0.7287234042553191,
+  "ket": "long dilikuidasi besar (dominasi ≥2.5×, ≥p90 koin) → harga turun 6 jam berikut"
+ },
+ {
+  "nama": "banjir SHORT + OI ikut turun",
+  "n": 239,
+  "rate": 0.694560669456067,
+  "ket": "squeeze murni (OI turun saat banjir short) → harga naik"
+ },
+ {
+  "nama": "banjir LONG + OI ikut turun",
+  "n": 279,
+  "rate": 0.7347670250896058,
+  "ket": "long-flush murni (OI turun saat banjir long) → harga turun"
+ },
+ {
+  "nama": "kerumunan long ekstrem ≥62% + funding panas",
+  "n": 169,
+  "rate": 0.5266272189349113,
+  "ket": "kerumunan sesak long + funding > 2× netral → turun 6j"
+ },
+ {
+  "nama": "kerumunan short ekstrem ≤38% + funding dingin",
+  "n": 38,
+  "rate": 0.6052631578947368,
+  "ket": "kerumunan sesak short + funding dingin → naik 6j"
+ },
+ {
+  "nama": "whale top-20 condong long ≥8pt vs kerumunan",
+  "n": 6626,
+  "rate": 0.4947177784485361,
+  "ket": "posisi whale berlawanan kerumunan (long) → naik 6j"
+ },
+ {
+  "nama": "whale top-20 condong short ≥8pt vs kerumunan",
+  "n": 3991,
+  "rate": 0.5121523427712352,
+  "ket": "posisi whale berlawanan kerumunan (short) → turun 6j"
+ },
+ {
+  "nama": "OI tumbuh ≥4%/24j + harga naik",
+  "n": 1508,
+  "rate": 0.4761273209549072,
+  "ket": "posisi baru mengikuti rally → lanjut naik 6j"
+ },
+ {
+  "nama": "OI tumbuh ≥4%/24j + harga turun",
+  "n": 917,
+  "rate": 0.43838604143947657,
+  "ket": "posisi baru mengikuti dump → lanjut turun 6j"
+ },
+ {
+  "nama": "taker beli ekstrem ≥70% saat harga naik",
+  "n": 924,
+  "rate": 0.47835497835497837,
+  "ket": "kejaran beli klimaks → lanjut naik 6j"
+ },
+ {
+  "nama": "akumulasi senyap (taker beli + harga kalem)",
+  "n": 1388,
+  "rate": 0.4877521613832853,
+  "ket": "taker beli kuat tanpa lonjakan harga → naik 6j"
+ }
+]

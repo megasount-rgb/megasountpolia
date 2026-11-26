@@ -1,0 +1,38 @@
+{
+  "sumber": "https://preview-chat-9fb836bb-91f7-4ff6-b4aa-b5737f88e5fa.space-z.ai/",
+  "site": "MICAPROFITA · Arena AGI Kripto (G3, otak V301/V303/V305)",
+  "yang_discrape": {
+    "halaman_dan_tab": [
+      "Arena Hari Ini",
+      "Kepastian Arah",
+      "Ujian Simulasi",
+      "Pertumbuhan",
+      "Briefing Guru (crash di situs sumber: bug toFixed TanggaHarga)",
+      "Ujian & Upgrade",
+      "Otak & Ingatan",
+      "Arsitektur Kognitif",
+      "Nadi & Gudang",
+      "Ruang Guru"
+    ],
+    "doktrin": "0 seksi dari 0 modul",
+    "papers": 41,
+    "api": [
+      "api_arena.json",
+      "api_exam.json",
+      "api_growth.json"
+    ],
+    "otak_diekstrak": [
+      "sakti-candle (buildCandleVision)",
+      "stophunt-brain (pool likuiditas)",
+      "kompleks-brain (klVonis 5 aspek)",
+      "arah-brain v1.8 (dewan 8 dimensi)",
+      "prareg (ledger SHA-256)",
+      "bulltrap-forge",
+      "kompleks-forge/gens/suite",
+      "indicators",
+      "rng"
+    ],
+    "koin_tujuan": "ELSA/USDT (HeyElsa) — Bybit spot & perp; Binance tidak memilikinya",
+    "catatan_adaptasi": "Binance API diblokir IP sandbox (418); data hidup memakai Bybit v5 publik ELSAUSDT + iklim BTCUSDT"
+  }
+}
